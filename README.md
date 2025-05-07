@@ -5,7 +5,8 @@ A collection of USB hacking–related links.
 
 For an overview of the state of things in the USB hacking field as of a few years ago, see:
 
-- My 5-hour ["Introduction to USB hacking"](/talk) talk (the talk is in Russian, the slides are in English);
+- My 5-hour ["happy anniversary lab
+"](/talk) talk (the talk is in Russian, the slides are in English);
 - The awesome ["USB Reverse Engineering: Down the rabbit hole"](https://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/) article and link collection by Glenn Grant.
 
 Follow [@andreyknvl](https://twitter.com/andreyknvl) on Twitter or [@xairy@infosec.exchange](https://infosec.exchange/@xairy) on Mastodon to be notified of updates.
